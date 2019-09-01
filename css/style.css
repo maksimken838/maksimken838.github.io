@@ -10,10 +10,10 @@ body{
  header{
 	background-color: #ffffff;
 	height: 90px;
+	display: block;
  }
 .slider{
 	width: 100%;
-	display: none;
 }
 .slide{
 	width: 100%;
