@@ -1,0 +1,40 @@
+ body{
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	letter-spacing: 1.05px;
+	font-size: 14px;
+	font-weight: 700;
+ }
+ header{
+	background-color: #ffffff;
+	height: 90px;
+ }
+.slider{
+	width: 100%;
+	display: none;
+}
+.slide{
+	width: 100%;
+}
+.logo{
+	margin: 27px 0 0 200px;
+	float: left;
+}
+.topnav{
+	margin: 40px 160px 0px 0px;
+	float:right;
+	height: 15px;
+}
+.topnav a{
+	text-decoration: none;
+	margin-right: 40px;
+	color: #777;
+	font-family: "Roboto";
+	font-weight: 700;
+	letter-spacing: 1.05px;
+}
+.topnav a:hover{
+	color: #000000;
+}
